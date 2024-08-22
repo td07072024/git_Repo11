@@ -1,0 +1,13 @@
+Sodium bisulfate, also known as sodium hydrogen sulfate,[a] is the sodium salt of the bisulfate anion, with the molecular formula NaHSO4. Sodium bisulfate is an acid salt formed by partial neutralization of sulfuric acid by an equivalent of sodium base, typically in the form of either sodium hydroxide (lye) or sodium chloride (table salt). It is a dry granular product that can be safely shipped and stored. The anhydrous form is hygroscopic. Solutions of sodium bisulfate are acidic, with a 1M solution having a pH of slightly below 1.
+
+Production
+Sodium bisulfate is produced as an intermediate in the Mannheim process, an industrial process involving the reaction of sodium chloride and sulfuric acid:[1]
+
+NaCl + H2SO4 → HCl + NaHSO4
+The process for the formation of sodium bisulfate is highly exothermic. The liquid sodium bisulfate is sprayed and cooled so that it forms a solid bead. The hydrogen chloride gas is dissolved in water to produce hydrochloric acid as a useful coproduct of the reaction.
+
+Sodium bisulfate can be generated as a byproduct of the production of many other mineral acids via the reaction of their sodium salts with an excess of sulfuric acid:
+
+NaX + H2SO4 → NaHSO4 + HX ( X− = CN−, NO3−, ClO4−)
+The acids HX produced have a lower boiling point than the reactants and are separated from the reaction mixture by distillation.
+
