@@ -1,0 +1,33 @@
+Fluoroantimonic acid is a mixture of hydrogen fluoride and antimony penta­fluoride, containing various cations and anions (the simplest being H
+2F+
+ and Sb F−
+6). This mixture is a superacid that, in terms of corrosiveness, is trillions of times stronger than pure sulfuric acid when measured by its Hammett acidity function. It even protonates some hydro­carbons to afford pentacoordinate carbo­cations (carbonium ions).[1] Like its precursor hydrogen fluoride, it attacks glass, but can be stored in containers lined with PTFE (Teflon) or PFA.
+
+Chemical composition
+Fluoroantimonic acid is formed by combining hydrogen fluoride and antimony pentafluoride:
+
+SbF5 + 2 HF ⇌ SbF−
+6 + H2F+
+The speciation (i.e., the inventory of components) of fluoroantimonic acid is complex. Spectroscopic measurements show that fluoroantimonic acid consists of a mixture of HF-solvated protons, [(HF)nH]+ (such as H3F
++
+2
+), and SbF5-adducts of fluoride, [(SbF5)nF]– (such as Sb4F
+−
+21
+). Thus, the formula "[H2F]+[SbF6]−" is a convenient but oversimplified approximation of the true composition.[2] Nevertheless, the extreme acidity of this mixture is evident from the exceptionally poor proton-accepting ability of the species present in solution. Hydrogen fluoride, a weak acid in aqueous solution that is normally not thought to have any appreciable Brønsted basicity at all, is in fact the strongest Brønsted base in the mixture, protonating to H2F+ in the same way water protonates to H3O+ in aqueous acid. It is the fluoronium ion that accounts for fluoroantimonic acid's extreme acidity. The protons easily migrate through the solution, moving from H2F+ to HF, when present, by the Grotthuss mechanism.[3]
+
+Two related products have been crystallized from HF-SbF5 mixtures, and both have been analyzed by single crystal X-ray crystallography. These salts have the formulas [H
+2F+
+] [Sb
+2F−
+11] and [H
+3F+
+2] [Sb
+2F−
+11]. In both salts, the anion is Sb
+2F−
+11.[4] As mentioned above, SbF−
+6 is weakly basic; the larger anion Sb
+2F−
+11 is expected to be a still weaker base.
+
